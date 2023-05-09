@@ -1,6 +1,6 @@
-# **Welcome to my Profile, call me Trần Như Anh Kiệt.**
-* ### 🎓 Fresher student in [Information Technology](fit.hcmus.edu.vn/vn/Default.aspx?tabid=325) at the [University of Science](https://www.hcmus.edu.vn/), VNUHCM.
-* ### 🎂 Birthday: 15/11/2004
+# Welcome to my Profile, call me Trần Như Anh Kiệt.
+* #### 🎓 Fresher student in [Information Technology](fit.hcmus.edu.vn/vn/Default.aspx?tabid=325) at the [University of Science](https://www.hcmus.edu.vn/), VNUHCM.
+* #### 🎂 Birthday: 15/11/2004
 
 <!--
 **TranKietHCMUS/TranKietHCMUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
