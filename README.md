@@ -1,4 +1,6 @@
-### Hi there 👋
+### **Welcome to my Profile, call me Trần Như Anh.**
+### 🎓 Fresher student in Information Technology at the University of Science, VNUHCM.
+### 🎂 Birthday: 15/11/2004
 
 <!--
 **TranKietHCMUS/TranKietHCMUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
