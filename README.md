@@ -1,5 +1,5 @@
 # Welcome to my Profile, call me Trần Như Anh Kiệt.
-* #### 🎓 Fresher student in [Information Technology](fit.hcmus.edu.vn/vn/Default.aspx?tabid=325) at the [University of Science](https://www.hcmus.edu.vn/), VNUHCM.
+* #### 🎓 Student in [Information Technology](fit.hcmus.edu.vn/vn/Default.aspx?tabid=325) at the [University of Science](https://www.hcmus.edu.vn/), VNUHCM.
 * #### 🎂 Birthday: 15/11/2004
 
 <!--
