@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Student in Information Technology at University of Science, VNUHCM.<br>
+🎓 I'm a Computer Science student at University of Science, VNUHCM.<br>
 
 
 ## 🌐 Socials:
